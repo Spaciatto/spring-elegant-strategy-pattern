@@ -1,2 +1,2 @@
 # spring-elegant-strategy-pattern
-Spring Boot elegant Strategy Pattern example 
+Elegant Strategy Pattern example using all Spring Boot automatic beans instantiate implemented by same interfaces.  
